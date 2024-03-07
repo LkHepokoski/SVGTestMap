@@ -1,0 +1,75 @@
+/*svg * { z-index: 0; }
+.selected { z-index: 1; }
+.hidden { display: none; opacity: 0; fill: none; }
+svg#usa-map { position: relative; width: 100%; margin-top: 0; margin-left: 0; top: 0; left: 0; transition: all 1s ease-in-out; }
+#state_borders { fill: none; stroke: white; stroke-width: 1; }
+.state { color: var(--inactive-color, silver); transition: color 0.5s; }
+.state.active { color: var(--active-color, grey); opacity: 0.75; cursor: pointer; }
+.state.active:hover, .state.selected { color: var(--selected-color, #303030); opacity: 1; }
+.state.selected g:hover { color: var(--selected-color, black); }
+.state path { stroke: currentColor; stroke-width: 0.3px; }
+
+.region .state { color: var(--active-color, grey); opacity: 0.75; cursor: pointer; }
+.region.hover .state { color: var(--selected-color, #303030); opacity: 1; }
+.region.selected .state { color: var(--selected-color, #303030); opacity: 1; }
+
+.region_links .link { opacity: 1; transition: all 0.3s; cursor: pointer; }
+.region_links.hidden .link { opacity: 0; }
+.link>circle { color: var(--button-color, white); stroke: white; stroke-width: 0; transition: all 0.2s; }
+.link>rect { color: var(--button-color, white); stroke: white; stroke-width: 1; transition: all 0.2s; }
+.link.hover>circle, .link.hover>rect { color: var(--button-color, steelblue); stroke: var(--accent-color, steelblue); stroke-width: 2px; }
+
+.label { display: none; }
+.region_links:hover .label, .state.active.label { display: block; }
+div#current-label { color: white; position: absolute; bottom: 1rem; right: 1rem; z-index: 1000; width: 50%; padding: 0 0.5rem; text-align: right; font-size: 2rem;
+    background-image: linear-gradient(to right, rgba(25, 25, 100, 0), rgba(25, 50, 120, 1)); }
+#map_bg { fill: var(--bg-color, white); }
+.label_frame { fill: var(--selected-color, darkgrey); }
+text { font-family: sans-serif; }
+*/
+
+#us-map {
+  display: block;
+  position: absolute;
+  width: 80%; /* Set a fixed width */
+  height: 80%; /* Set a fixed height */
+  left: 10%; /* Adjust the left position as needed */
+}
+  path:hover, circle:hover {
+    stroke: #1c355e !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #1c355e !important;
+    cursor: pointer;
+  }
+  #path67 {
+    fill: none !important;
+    stroke: #9d9fa2 !important;
+    cursor: default;
+  }
+  
+  #info-box {
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    background-color: #ffffff;
+    border: 2px solid #BF0A30;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: arial;
+  }
+*/
+#back-button {
+  position: absolute;
+  top: 10px; /* Adjust the top position as needed */
+  left: 10px; /* Adjust the left position as needed */
+  border: #9d9fa2 solid transparent;
+  border-radius: 25%;
+  cursor: pointer;
+}
+
+.icon-button i {
+  margin-right: 25%;
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "address_line1": "525 S Winchester Blvd",
+    "city_locality": "San Jose",
+    "state_province": "CA",
+    "postal_code": "95128",
+    "country_code": "US",
+    "link": "https://northerncalifornia.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "123 Main St",
+    "city_locality": "Anytown",
+    "state_province": "NY",
+    "postal_code": "12345",
+    "country_code": "US",
+    "link": "https://northeastcorridor.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "456 Oak Avenue",
+    "city_locality": "Sunnydale",
+    "state_province": "CA",
+    "postal_code": "98765",
+    "country_code": "US",
+    "link": "https://lasvegas.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "789 Pine Street",
+    "city_locality": "Greenwood",
+    "state_province": "TX",
+    "postal_code": "56789",
+    "country_code": "US",
+    "link": "https://dallas.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "123 Pine St",
+    "city_locality": "Seattle",
+    "state_province": "WA",
+    "postal_code": "98101",
+    "country_code": "US",
+    "link": "https://pacificnorthwest.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "456 Mountain View Rd",
+    "city_locality": "Denver",
+    "state_province": "CO",
+    "postal_code": "80202",
+    "country_code": "US",
+    "link": "https://colorado.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "789 Desert Blvd",
+    "city_locality": "Albuquerque",
+    "state_province": "NM",
+    "postal_code": "87101",
+    "country_code": "US",
+    "link": "https://newmexico.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "101 Cactus Lane",
+    "city_locality": "Phoenix",
+    "state_province": "AZ",
+    "postal_code": "85001",
+    "country_code": "US",
+    "link": "https://arizona.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "555 North Star Ave",
+    "city_locality": "Minneapolis",
+    "state_province": "MN",
+    "postal_code": "55401",
+    "country_code": "US",
+    "link": "https://minnesota.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "777 Speedway Blvd",
+    "city_locality": "Indianapolis",
+    "state_province": "IN",
+    "postal_code": "46201",
+    "country_code": "US",
+    "link": "https://indianapolis.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "888 Derby Dr",
+    "city_locality": "Louisville",
+    "state_province": "KY",
+    "postal_code": "40202",
+    "country_code": "US",
+    "link": "https://louisville.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "999 Windy City Rd",
+    "city_locality": "Chicago",
+    "state_province": "IL",
+    "postal_code": "60601",
+    "country_code": "US",
+    "link": "https://illinois.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "333 Great Lakes Blvd",
+    "city_locality": "Detroit",
+    "state_province": "MI",
+    "postal_code": "48201",
+    "country_code": "US",
+    "link": "https://michigan.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "111 Sunshine Ave",
+    "city_locality": "Miami",
+    "state_province": "FL",
+    "postal_code": "33101",
+    "country_code": "US",
+    "link": "https://sefl.pulte.yurstore.com/"
+  },
+  {
+    "address_line1": "222 Peachtree St",
+    "city_locality": "Atlanta",
+    "state_province": "GA",
+    "postal_code": "30301",
+    "country_code": "US",
+    "link": "https://georgia.pulte.yurstore.com/"
+  }
+  
+]
+
+  

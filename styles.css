@@ -1,0 +1,64 @@
+/* Set default styles for clickable states */
+path.clickable,
+circle.clickable {
+    fill: #00b2e3;
+    stroke: #ffffff;
+    stroke-width: 1px;
+    stroke-linejoin: round;
+    cursor: pointer;
+}
+
+/* Set default styles for unclickable states */
+path.unclickable,
+circle.unclickable {
+    fill: #9d9fa2;
+    stroke: #ffffff;
+    stroke-width: 1px;
+    stroke-linejoin: round;
+    cursor: default;
+}
+
+/* Hover styles for clickable states */
+path.clickable:hover,
+circle.clickable:hover {
+    fill: #1c355e;
+}
+
+/* Reset hover styles for unclickable states */
+path.unclickable:hover,
+circle.unclickable:hover {
+    fill: #9d9fa2;
+}
+
+/* Set styles for hidden states */
+path.hidden,
+circle.hidden {
+    visibility: hidden;
+}
+
+/* Back button styles */
+#back-button {
+    position: absolute;
+    z-index: 999;
+    top: 10px;
+    left: 10px;
+    background: #ffffff;
+    padding: 10px;
+    border: 1px solid #9d9fa2;
+    cursor: pointer;
+    display: none;
+}
+
+#map {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.marker{
+    fill: #ffb71b;
+    stroke: #ffffff;
+    stroke-width: 0.5px;
+    opacity: 0%;
+    cursor:pointer;
+}
